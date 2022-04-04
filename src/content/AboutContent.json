@@ -1,14 +1,14 @@
 {
   "title": "Легко, быстро & удобно",
-  "text": "Загрузив свое поме",
+  "text": "ИСпользуемые совремнные методы моделирования",
   "section": [
     {
-      "title": "ImageSource",
+      "title": "Ray Traycing",
       "content": "",
       "icon": "notes.svg"
     },
     {
-      "title": "Трассировка лучей",
+      "title": "Image Source",
       "content": "",
       "icon": "notes.svg"
     }
